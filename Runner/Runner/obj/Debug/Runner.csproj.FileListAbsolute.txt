@@ -1,0 +1,14 @@
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Window1.baml
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Window1.g.cs
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\App.g.cs
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Runner_MarkupCompile.cache
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Runner.g.resources
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\bin\Debug\Runner.exe
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\bin\Debug\Runner.pdb
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Runner.exe
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Runner.pdb
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Window2.baml
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Window2.g.cs
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Window3.baml
+C:\Users\KPK\Desktop\Ранер\Runner\Runner\obj\Debug\Window3.g.cs

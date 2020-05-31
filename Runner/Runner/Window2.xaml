@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="Runner.Window2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Result"
+	Height="504"
+	Width="313">
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition />
+			<ColumnDefinition
+				Width="*" />
+			<ColumnDefinition
+				Width="*" />
+		</Grid.ColumnDefinitions>
+		<StackPanel
+			Grid.Column="0"
+			Grid.Row="1"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Stretch"
+			Margin="0,0,0,0"
+			Width="NaN"
+			Height="NaN"
+			x:Name="diff"></StackPanel>
+		<StackPanel
+			Grid.Column="1"
+			Grid.Row="1"
+			Width="NaN"
+			Height="NaN"
+			Margin="0,0,0,0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Stretch"
+			x:Name="name" />
+		<Label
+			Grid.Column="0"
+			Grid.Row="0"
+			Width="NaN"
+			Margin="0,0,0,0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Stretch"
+			Height="NaN"
+			Content="Сложность"
+			VerticalContentAlignment="Center"
+			HorizontalContentAlignment="Center" />
+		<Label
+			Grid.Column="1"
+			Grid.Row="0"
+			Width="NaN"
+			Margin="0,0,0,0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Stretch"
+			Height="NaN"
+			VerticalContentAlignment="Center"
+			HorizontalContentAlignment="Center"
+			Content="Имя игрока" />
+		<Label
+			Grid.Column="2"
+			Grid.Row="0"
+			Width="NaN"
+			Margin="0,0,0,0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Stretch"
+			Height="NaN"
+			VerticalContentAlignment="Center"
+			HorizontalContentAlignment="Center"
+			Content="Результат" />
+		<StackPanel
+			Grid.Column="2"
+			Grid.Row="1"
+			Width="NaN"
+			Height="NaN"
+			Margin="0,0,0,0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Stretch"
+			x:Name="score"></StackPanel>
+		<Grid.RowDefinitions>
+			<RowDefinition
+				Height="0.11721878412814*" />
+			<RowDefinition
+				Height="1.88350590435294*" />
+		</Grid.RowDefinitions>
+	</Grid>
+</Window>

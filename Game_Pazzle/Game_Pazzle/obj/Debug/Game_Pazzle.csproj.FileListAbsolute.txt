@@ -1,0 +1,24 @@
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.csprojResolveAssemblyReference.cache
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Window1.baml
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Window1.g.cs
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\App.g.cs
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle_MarkupCompile.cache
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.g.resources
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\Game_Pazzle.exe
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\Game_Pazzle.pdb
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.exe
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.pdb
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Recrord.baml
+C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\obj\Debug\Recrord.g.cs
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\bin\Debug\Game_Pazzle.exe
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\bin\Debug\Game_Pazzle.pdb
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.csprojResolveAssemblyReference.cache
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Recrord.baml
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Window1.baml
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Recrord.g.cs
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Window1.g.cs
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\App.g.cs
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle_MarkupCompile.cache
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.g.resources
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.exe
+C:\Users\KPK\Desktop\Новая папка (3)\Game_Pazzle\Game_Pazzle\obj\Debug\Game_Pazzle.pdb

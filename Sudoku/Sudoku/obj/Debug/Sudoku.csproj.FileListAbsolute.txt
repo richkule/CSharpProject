@@ -1,0 +1,12 @@
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Window1.baml
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Window1.g.cs
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\App.g.cs
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Window2.baml
+C:\Users\KPK\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Window2.g.cs

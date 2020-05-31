@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="Runner.Window3" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Write name"
+	Width="211.5"
+	Height="158.8">
+	<Grid>
+		<Button
+			Content="Ввод"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Bottom"
+			Margin="7.99999999999999,0,0,8"
+			Width="186"
+			Height="34"
+			x:Name="button1"
+			Click="button1_Click" />
+		<Label
+			Content="Игра окончена, введите ваше имя"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Stretch"
+			Margin="0,0,0,94"
+			Width="211" />
+		<TextBox
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Bottom"
+			Margin="8,0,0,64"
+			Width="186"
+			Height="20"
+			x:Name="name"
+			Text="NoName" />
+		<Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+	</Grid>
+</Window>

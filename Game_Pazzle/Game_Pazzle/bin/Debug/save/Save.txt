@@ -1,0 +1,24 @@
+10
+9
+True`False`0`0`0`0`0`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(1).jpg
+False`False`0`1`1`0`1`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(2).jpg
+False`False`1`2`2`0`2`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(3).jpg
+False`False`1`0`0`1`3`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(4).jpg
+False`False`2`2`1`1`4`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(5).jpg
+True`False`2`1`2`1`5`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(6).jpg
+False`False`2`0`0`2`6`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(7).jpg
+False`False`1`1`1`2`7`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(8).jpg
+False`False`0`2`2`2`8`C:\Users\KPK\Documents\SharpDevelop Projects\Game_Pazzle\Game_Pazzle\bin\Debug\/image/tiger/3/(9).jpg
+10
+5`6
+3`7
+6`7
+1`8
+2`0
+4`0
+1`7
+3`5
+6`5
+7`1
+3
+tiger
